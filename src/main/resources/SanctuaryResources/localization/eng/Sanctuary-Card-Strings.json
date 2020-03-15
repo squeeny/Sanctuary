@@ -1,0 +1,30 @@
+{
+  "Sanctuary:osremove": {
+    "NAME": "os.remove()",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, Exhaust your hand, NL Draw !M! Cards. NL Exhaust this card."
+  },
+  "Sanctuary:osremovebad": {
+    "NAME": "os.remove()",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, Exhaust your hand, NL Draw !M! Cards. NL Exhaust this card."
+  },
+  "Sanctuary:cupcake": {
+    "NAME": "Cupcake",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, Heal !M! HP, NL Exhaust this card."
+  },
+  "Sanctuary:cupcakebad": {
+    "NAME": "Cupcake",
+    "DESCRIPTION": "Unplayable."
+  },
+  "Sanctuary:sunnyday": {
+    "NAME": "Dear, Sunshine",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, Gain [E] NL Exhaust this card."
+  },
+  "Sanctuary:sunnydaybad": {
+    "NAME": "Dear, Sunshine",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, Lose [E] NL Exhaust this card."
+  },
+  "Sanctuary:shivbad": {
+    "NAME": "Stab",
+    "DESCRIPTION": "Lose !M! HP. NL Exhaust."
+  }
+}

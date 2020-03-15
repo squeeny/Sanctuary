@@ -1,0 +1,8 @@
+{
+  "DEFAULTID": "theDefault",
+  "DEVID": "DefaultModDev",
+  "EXCEPTION": "Go to your constructor in your class with SpireInitializer and change your mod ID from \"Sanctuary\"",
+  "PACKAGE_EXCEPTION": "Rename your Sanctuary folder (package) to match your mod ID! ",
+  "RESOURCE_FOLDER_EXCEPTION": "Rename your SanctuaryResources folder to match your mod ID!",
+  "RESOURCES": "Resources"
+}
