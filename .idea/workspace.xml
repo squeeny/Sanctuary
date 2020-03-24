@@ -3,51 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7645c599-ef7f-4cbf-a451-a62350c0caee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/Sanctuary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/Sanctuary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/powers/SwarmPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/powers/SwarmPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/BurnerInserter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/BurnerInserter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/DokiDokiMemoir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/DokiDokiMemoir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/DoubleEdgedShield.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/DoubleEdgedShield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/Halation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/LetterOfGratitude.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/LetterOfGratitude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/LunarClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/LunarClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/MetalUpa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/MetalUpa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/MiniMonika.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/OrderPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/OrderPad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/PeculiarCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/RainbowDark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/RainbowDark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TheSun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TheSun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TheSwarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TheSwarm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TimewalkingPendant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TimewalkingPendant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TwinFlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/relics/TwinFlower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/util/SanctuaryMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/util/SanctuaryMessages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sanctuary/vfx/general/LunarClockLunarDial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sanctuary/vfx/general/LunarClockLunarDial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/effects/jojo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/effects/jojo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/BottledPlaceholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/Relics.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/default_clickable_relic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/faded.pdn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/faded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/fadedyin.pdn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/fadeyang.pdn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/fadeyang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/fadeyin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/letterbase dok fin2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/letterbase rei fin2.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/letterbase.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/BottledPlaceholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/adamantium.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/adamantium.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/default_clickable_relic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/inserter.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/inserter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/phoenix_feather.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/phoenix_feather.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/placeholder_relic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/placeholder_relic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/placeholder_relic2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/torii.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/torii.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/outline/yang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/images/relics/placeholder_relic2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/localization/eng/Sanctuary-Power-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/localization/eng/Sanctuary-Power-Strings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/localization/eng/Sanctuary-Relic-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SanctuaryResources/localization/eng/Sanctuary-Relic-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SanctuaryResources/localization/eng/Sanctuary-Relic-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SanctuaryResources/localization/eng/Sanctuary-Relic-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,29 +118,29 @@
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583919616512" />
     <state x="651" y="171" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584205834207" />
     <state x="2571" y="178" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584038515191" />
-    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1584297299513">
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1584811391810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584010638735" />
-    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584297299513" />
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584811391810" />
     <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584041649734" />
-    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1584297299513">
+    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1584811391810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584010638735" />
-    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584297299513" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584811391810" />
     <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584041649734" />
-    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1584297299513">
+    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1584811391810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584010638734" />
-    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584297299513" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584811391810" />
     <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584041649734" />
-    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1584297299513">
+    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1584811391810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1306" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584010638735" />
-    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584297299513" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584811391810" />
     <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584041649734" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1584198861880">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -203,11 +162,11 @@
     </state>
     <state x="499" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583920942581" />
     <state x="702" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1583445613170" />
-    <state x="476" y="231" width="945" height="968" key="run.anything.popup" timestamp="1584296238764">
+    <state x="476" y="231" width="945" height="968" key="run.anything.popup" timestamp="1584810215360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584010638764" />
-    <state x="476" y="231" width="945" height="968" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584296238764" />
+    <state x="476" y="231" width="945" height="968" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1584810215360" />
     <state x="2396" y="240" width="945" height="1005" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584041649744" />
   </component>
 </project>

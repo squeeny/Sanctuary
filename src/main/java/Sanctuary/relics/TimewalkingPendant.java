@@ -3,6 +3,7 @@ package Sanctuary.relics;
 import basemod.abstracts.CustomRelic;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Texture;
+import com.megacrit.cardcrawl.actions.common.RelicAboveCreatureAction;
 import com.megacrit.cardcrawl.actions.watcher.PressEndTurnButtonAction;
 import com.megacrit.cardcrawl.actions.watcher.SkipEnemiesTurnAction;
 import com.megacrit.cardcrawl.cards.AbstractCard;
@@ -37,7 +38,12 @@ public class TimewalkingPendant extends CustomRelic {
 
         this.counter++;
 
-        if (this.counter >= 32) {
+        if(this.counter == 39){
+            flash();
+            addToBot(new RelicAboveCreatureAction(AbstractDungeon.player, this));
+        }
+
+        if (this.counter >= 40) {
 
             CardCrawlGame.sound.play("POWER_TIME_WARP", 0.05F);
             AbstractDungeon.effectsQueue.add(new BorderFlashEffect(Color.GOLD, true));
@@ -46,7 +52,7 @@ public class TimewalkingPendant extends CustomRelic {
             addToBot(new PressEndTurnButtonAction());
             addToBot(new SkipEnemiesTurnAction());
 
-            this.counter -= 32;
+            this.counter -= 40;
 
         }
     }
