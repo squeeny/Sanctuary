@@ -35,7 +35,7 @@ public class DoubleEdgedShield extends CustomRelic {
             addToTop(new RelicAboveCreatureAction(AbstractDungeon.player, this));
             return 7;
         }
-        else if (info.owner != null && info.type != DamageInfo.DamageType.HP_LOSS && info.type != DamageInfo.DamageType.THORNS && damageAmount < 7) {
+        else if (info.owner != null && info.type != DamageInfo.DamageType.HP_LOSS && info.type != DamageInfo.DamageType.THORNS && damageAmount < 7 && damageAmount != 0) {
             flash();
             addToTop(new RelicAboveCreatureAction(AbstractDungeon.player, this));
             return 7;
